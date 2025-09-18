@@ -1,7 +1,7 @@
 ARG UID
 ARG GID
 
-FROM traccar:alpine
+FROM traccar/traccar:alpine
 
 LABEL maintainer="Thien Tran contact@tommytran.io"
 
